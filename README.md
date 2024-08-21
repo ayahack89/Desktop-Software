@@ -1,2 +1,2 @@
 # Electron
-Desktop Software using Electron framework in node environment.
+Electron is a free, open-source framework for building desktop applications using JavaScript in node.js environment.
